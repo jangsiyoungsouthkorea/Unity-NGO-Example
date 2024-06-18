@@ -126,3 +126,5 @@ Unity NGO Example
   - 조건을 만족하는 요소가 하나라도 있으면 `true`, 아니면 `false`를 반환합니다.
 
 ---
+
+사용예시는 Asset/NetworkComponent/Example에 예시 씬을 참고해라
